@@ -5,7 +5,7 @@ Design pattern based C++
 
 ### 1.UML的使用
 
-![UML](D:\designpattern\pic\UML.png)
+![UML](https://github.com/zengxiang21/DesignPattern/blob/master/pic/UML.png)
 
 ## 简单工厂模式
 
