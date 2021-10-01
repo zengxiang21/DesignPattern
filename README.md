@@ -80,7 +80,7 @@ int main()
 
 反射解决的问题：**如何通过类的名称字符串来生成类的对象。比如有一个类 ClassA，那么如何通过类名称字符串 “ClassA” 来创建类的对象呢**
 
-![dynamicfactory](D:\designpattern\pic\dynamicfactory.png)
+![dynamicfactory](./pic/dynamicfactory.png)
 
 ```
 #include<iostream>
