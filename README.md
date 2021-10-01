@@ -9,7 +9,7 @@ Design pattern based C++
 
 ## 简单工厂模式
 
-![Simple Factory Pattern](.\pic\简单工厂模式.jpg)
+![Simple Factory Pattern](./pic/简单工厂模式.jpg)
 
 ```
 工厂（Factory）：整个模式的核心，负责实现创建所有实例的内部逻辑。
@@ -17,7 +17,7 @@ Design pattern based C++
 具体产品（ConcreteProduct）：最终创建的具体产品
 ```
 
-![在这里插入图片描述](.\pic\简单工厂2.jpg)
+![在这里插入图片描述](./pic/简单工厂2.jpg)
 
 ```
 实现了客户端和与具体类实现的解耦
